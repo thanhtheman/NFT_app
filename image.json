@@ -1,0 +1,11 @@
+{
+    "name":"Thanh The Man",
+    "description": "Smart and Wise",
+    "image": "http://bafybeihsyipu2iabptrmkjqjchej2hrwoqwoi44cygse2r7msts63bpbnu.ipfs.localhost:8080/?filename=profile_picture.jpg",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 1000
+        }
+    ]
+}
